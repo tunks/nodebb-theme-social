@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-social",
+    "name": "Social",
+    "description": "The Social theme for NodeBB. Uses a standard approach to forum design.",
+    "url": "https://github.com/tunks/nodebb-theme-social",
+    "screenshot": "screenshot.png"
+}
